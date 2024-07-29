@@ -1,7 +1,7 @@
-👋 Hi, I’m a Full-Stack Web Developer
+👋 Hi, I’m a full-stack developer
 
-👀 I’m interested in Web development
+👀 I’m interested in both front-end / back-end development and also in related topics (DevOps, QA)
 
-🌱 I’m currently improving my skills in field of Web development
+🌱 I’m currently improving my skills in the field of full-stack development
 
-💞️ I’m looking for self-improvement oportunities and new acquaintances
+💞️ I’m actively looking for the best self-improvement oportunities and new acquaintances
